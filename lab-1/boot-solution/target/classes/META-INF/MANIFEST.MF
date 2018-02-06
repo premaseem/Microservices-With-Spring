@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: asee2278
+Build-Jdk: 9.0.1
+Implementation-Title: lab-1-boot-solution
+Implementation-Version: 1
+Implementation-Vendor-Id: org.test
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/lab-1-boot-s
+ olution/
+Main-Class: demo.Application
+Created-By: Maven Integration for Eclipse
+

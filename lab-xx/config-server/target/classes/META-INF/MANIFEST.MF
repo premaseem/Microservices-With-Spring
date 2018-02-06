@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: asee2278
+Build-Jdk: 9.0.1
+Implementation-Title: lab-9-config-server
+Implementation-Version: 1
+Implementation-Vendor-Id: org.test
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: demo.Application
+Created-By: Maven Integration for Eclipse
+
